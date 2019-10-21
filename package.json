@@ -1,5 +1,5 @@
 {
-  "name": "angular",
+  "name": "angular-apps-directives",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -49,6 +49,6 @@
     "tslint": "~5.9.1",
     "typescript": "~2.5.3"
   },
-  "keywords": ["angular"],
-  "description": ""
+  "keywords": ["angular", "directives", "hostbinding", "hostlistener"],
+  "description": "Basic directives in Angular 8."
 }
